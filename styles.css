@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: 'happy-monkey', cursive, sans-serif;
+    color: #ffffff;
+    background: #a2d2ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#pic {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #EFB0C9;
+}
+
+h2, h4 {
+    background: #EFB0C9;
+}
